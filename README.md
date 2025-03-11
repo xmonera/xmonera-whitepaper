@@ -1,3 +1,4 @@
+# ![Xmonera Banner](https://github.com/xmonera/xmonera-whitepaper/blob/main/xmonera%20logo%20t211.png)
 # Xmonera — Quantum-Resistant Digital Gold
 
 ## Table of Contents
